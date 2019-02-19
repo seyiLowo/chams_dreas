@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using chams_dreas.Enum;
 
 namespace chams_dreas.Models
 {
